@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shape guid="{EC8FE54B-BEB2-43EE-8601-65D405CD9B48}" name="dg-lq-Machine">
+  <queueInfo queueParent="dg-lq-Machine">
+    <behaviour partPositioning="partOver" partRoll="0" partPitch="0" partYaw="0" />
+    <position x="0" y="0" z="0" />
+    <direction dx="0" dy="0" dz="1" />
+  </queueInfo>
+  <localizedName zh="dg-lq-机器" es="dg-lq-Maquina" fr="dg-lq-Machine" de="dg-lq-Maschine" pl="dg-lq-Machine" ja="dg-lq-Machine" />
+  <geometryInfo x1="-0" y1="-0" z1="-0" x2="0" y2="0" z2="0" />
+</shape>

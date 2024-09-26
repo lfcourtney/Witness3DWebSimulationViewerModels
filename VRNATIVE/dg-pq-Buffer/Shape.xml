@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shape guid="{EDB7CB2A-61A4-4046-A807-4614957E0131}" name="dg-pq-Buffer">
+  <queueInfo queueParent="dg-pq-Buffer">
+    <behaviour partPositioning="partOver" partRoll="0" partPitch="0" partYaw="0" />
+    <position x="0" y="0" z="0" />
+    <direction dx="0" dy="0" dz="1" />
+  </queueInfo>
+  <localizedName zh="dg-pq-缓冲区" es="dg-pq-Buffer" fr="dg-pq-Stock" de="dg-pq-Lager" pl="dg-pq-Buffer" ja="dg-pq-Buffer" />
+  <geometryInfo x1="-0" y1="-0" z1="-0" x2="0" y2="0" z2="0" />
+</shape>
